@@ -3,3 +3,4 @@
 
 1. Fazer fork do projet snake-game-js
 2. Em viar o projeto snake-game-js para o meu repositorio 
+3. Altere <h2 align="center">SEU NOME AQUI</h2> <!-- coloque seu nome-->
